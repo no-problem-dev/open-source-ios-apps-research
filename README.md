@@ -6,6 +6,7 @@
 
 | ドキュメント | 内容 |
 |-------------|------|
+| [**ニッチな機能**](docs/niche-capabilities/) | BLE Mesh, Metal, CoreML, Terminal等の珍しいiOS実装 (14件) |
 | [**モダン実装パターン**](docs/modern-practices/) | iOS 17+, visionOS, SwiftData, TCA等の実装ガイド (22件) |
 | [カテゴリ別分析](docs/categories/) | 分野別の傾向分析レポート (22件) |
 | [プロジェクト別詳細](docs/projects/) | 人気プロジェクトの個別分析 (29件) |

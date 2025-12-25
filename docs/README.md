@@ -6,11 +6,18 @@
 
 | ドキュメント | 内容 | 件数 |
 |-------------|------|------|
-| [**modern-practices/**](modern-practices/) | モダンiOS実装パターン (iOS 17+, visionOS, SwiftData, TCA等) | 22 |
+| [**niche-capabilities/**](niche-capabilities/) | ニッチだけど学べるiOS機能 (BLE Mesh, Metal, CoreML等) | 14 |
+| [modern-practices/](modern-practices/) | モダンiOS実装パターン (iOS 17+, visionOS, SwiftData, TCA等) | 22 |
 | [categories/](categories/) | カテゴリ別分析レポート | 22 |
 | [projects/](projects/) | プロジェクト別詳細分析 | 29 |
 
 ## おすすめ
+
+### ニッチな機能を発見する
+
+→ [niche-capabilities/](niche-capabilities/)
+
+「iOSでこんなことできるの？」という発見。Terminal実装、BLE Mesh、逆コンパイルなど。
 
 ### 実装パターンを学ぶ
 
